@@ -1,8 +1,8 @@
 # news-image-20261122 — builder C ("closing")
 
-![make.fun](https://make.fun/badge/news-image-20261122.svg)
-![rank](https://make.fun/badge/news-image-20261122/akbare12/news-22-b1-closing/rank.svg)
-![reward](https://make.fun/badge/news-image-20261122/akbare12/news-22-b1-closing/reward.svg)
+[![make.fun](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122)
+[![rank](https://make.fun/badge/news-image-20261122/akbare12/news-22-b1-closing/rank.svg)](https://make.fun/bounty/news-image-20261122)
+[![reward](https://make.fun/badge/news-image-20261122/akbare12/news-22-b1-closing/reward.svg)](https://make.fun/bounty/news-image-20261122)
 
 One image summing up the world's news of **Sunday 22 November 2026**.
 
